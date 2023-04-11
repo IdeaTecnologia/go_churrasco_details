@@ -1,2 +1,2 @@
-# go_churrasco_details
+# Política de Privacidade
 Repository created to make public information about the application available.
